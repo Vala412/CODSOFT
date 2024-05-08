@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * GradeCalculator
- */
 public class GradeCalculator {
 
     public static void main(String[] args) {
@@ -11,7 +8,7 @@ public class GradeCalculator {
         System.out.println("========================================");
         System.out.println("Grade Calculator");
         System.out.println("========================================");
-        System.out.println();
+        // System.out.println();
         System.out.println("Enter the marks of 5 subjects: ");
         
         int total = 0;

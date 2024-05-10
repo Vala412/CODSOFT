@@ -16,7 +16,6 @@ public class NumberGame {
 
             Random random = new Random();
             int randomNumber = random.nextInt(100);
-            // System.out.println(randomNumber);
             
             for(int i=0; i<5; i++){
 
